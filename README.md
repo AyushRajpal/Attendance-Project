@@ -1,6 +1,5 @@
 # Attendance-Project
-Performing Data Cleaning on the Attendance data set 
-I have a data set containg attendance of the students from a university.
+I have a data set containg attendance of the students from a university. I have to clean the data and perform certains tasks on it.
 This data contains a lot of anomalies like:
 - Columns names present in multiple rows.
 - Space in front of column names and the data. When printed,'\xa0' appears in front of every string
